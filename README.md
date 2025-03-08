@@ -8,7 +8,7 @@ Task: Employee Development Tracker Management Objective: Develop a web applicati
 Setup Instructions
 
 Clone the repository:
-git@github.com:Chikalesakshi/Employee_Task_Manager.git
+[git@github.com:Chikalesakshi/Employee_Task_Manager.git](https://github.com/Chikalesakshi/Employee_Task_Manager.git)
 
 Configure the database in appsettings.json:
 "ConnectionStrings": { "DefaultConnection": "Server=your_server;Database=EmployeeTracker;Trusted_Connection=True;" }
